@@ -6,6 +6,16 @@
     <meta name="description" content="cette objet pour test my code">
   </head>
   <body>
-    <h1>hello world</h1>
+    <forme action="method=">
+      <filedset>
+        <label>Entre votre Nom:<\label>
+          <input type="text" placeholders="name"><br>
+          <label> votre prénom:<\label>
+          <input type="text" placeholder="prénom"><br>
+      <label> your love for me?</label>
+      <input type="range">
+            
+      </filedset>
+    </forme>
   </body>
 </html>
