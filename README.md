@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width initiale-scale=1.0">
     <meta name="description" content="cette objet pour test my code">
+    <link rel="stylesheet" href=style.css">
   </head>
   <body>
     <forme action="method=">
